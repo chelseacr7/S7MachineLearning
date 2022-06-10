@@ -7,7 +7,8 @@
 
 ![]()
 
-Dar click en Nuevo: 
+6. Dar click en Nuevo: 
+
 ![](https://github.com/chelseacr7/S7MachineLearning/blob/main/Capturas%20de%20pantalla/image.png)
 
 
