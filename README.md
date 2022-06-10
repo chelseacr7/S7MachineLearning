@@ -13,3 +13,11 @@
 
 
 7. Poner nombre, suscripcion, region (Al llenar los daos se puede notar que la región está bloqueda debido a que ML Studio y las instancias deben estar en la misma región)
+
+imagen
+
+8. Dar en el boton Crear
+
+![](
+
+9. Tomar el link de la renta de bici:  https://aka.ms/bike-rentals
